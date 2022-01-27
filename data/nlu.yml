@@ -1,0 +1,40 @@
+nlu:
+- intent: vacuum
+  examples: |
+    - vacuum
+    - vacuum here
+    - clean
+    - clean the room
+    - the floor needs vacuuming
+
+- intent: move_to_trash
+  examples: |
+    - put that in the garbage
+    - throw that away
+    - put this in the trash can
+    - dispose of that
+    - put that in the junk
+
+- intent: give
+  examples: |
+    - give that to me
+    - hand that over
+    - I need that
+    - come with that to me
+    - come here with that
+
+- intent: turn_on_light
+  examples: |
+    - turn on the light
+    - switch on the light
+    - make the room brighter
+    - light up the room
+    - make it brighter in here
+
+- intent: turn_off_light
+  examples: |
+    - turn off the light
+    - switch off the light
+    - make the room darker
+    - darken the room
+    - make it darker in here

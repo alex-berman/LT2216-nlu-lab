@@ -1,0 +1,13 @@
+- intent: ask_oven_warm
+  examples: |
+    - is the oven warm
+    - is the oven hot
+    - is it warm
+    - is it hot
+
+- intent: inform_oven_warm
+  examples: |
+    - the oven is warm
+    - the oven is hot
+    - it is warm
+    - it is hot
